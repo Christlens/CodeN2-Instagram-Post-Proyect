@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+
+.post {
+    width: 500px;
+    height: 590px;
+    margin: auto; 
+    background-color: white; 
+}
+
+.post_header {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+
+}
+.icon_5 {
+    position: relative;
+    margin:  10px;
+}
+.name {
+    width: 60px;
+    height: 50px;
+    margin-right: auto;     
+    font-size: small;
+}
+.icon_poinBullet {
+    position: relative;
+    margin: 10px;
+}
+
+.icons_body {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+}
+.like {
+    position: relative;
+    margin: 10px;
+}
+.mesagge {
+    position: relative;
+    margin: 10px;
+}
+.send {
+    position: relative;
+    margin: 10px 300px 10px 10px;
+}
+.save {
+    position: relative;
+    margin: 10px;
+}
+
+.paragraph {
+    box-sizing: content-box;
+    padding: 0px 15px 10px 10px;
+    text-align: justify;
+}
+#p1 {
+    margin-top: 5px;
+}
